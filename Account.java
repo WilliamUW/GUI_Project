@@ -7,7 +7,7 @@ import java.io.File;
 import java.net.URL;
 import java.io.*;
 /**
- * Write a description of class Account here.
+ * An account that knows its website, username and password.
  *
  * @author (your name)
  * @version (a version number or a date)
